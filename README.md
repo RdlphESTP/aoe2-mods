@@ -1,4 +1,4 @@
-# AoE2: The Age of Kings — Mods
+# AoE2: The Age of Kings - Mods
 
 A collection of mods for the original **Age of Empires II: The Age of Kings** (1999).
 
@@ -7,12 +7,12 @@ A collection of mods for the original **Age of Empires II: The Age of Kings** (1
 This project targets the **original Age of Kings** release (not *The Conquerors*).
 You need a working install of the original game first (checkout tips under).
 
-> [!IMPORTANT] 
+> [!IMPORTANT]
 > **Looking for The Conquerors?**
 > You're probably looking for [UserPatch](https://userpatch.aiscripters.net/), the community patch for *AoE2: The Conquerors*.
 > These mods were built for *The Age of Kings* only and haven't been tested on *The Conquerors*.
 
-> [!TIP] 
+> [!TIP]
 > **Game won't launch on a modern PC?**
 > If a fresh install doesn't start, try reinstalling from the original CD, then copy the [cnc-ddraw files](https://github.com/FunkyFr3sh/cnc-ddraw/releases/latest/download/cnc-ddraw.zip) in the game installation folder.
 
@@ -31,11 +31,8 @@ You need a working install of the original game first (checkout tips under).
 
 ## Available Mods
 
-> [!NOTE] 
 > **Drag Scroll** (`dragscroll.dll`)
 > Adds middle-mouse drag scrolling to the game.
->
-> **Controls**: Hold the middle mouse button and drag to scroll the map.
 
 ## Technical Details
 
