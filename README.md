@@ -26,7 +26,7 @@ You need a working install of the original game first (checkout tips under).
 3. Copy the mod `.dll` file(s) into a `mods/` subfolder (create it if it doesn't exist).
 4. Launch the game using `launcher.exe`, **not** the original `empires2.exe`.
 
-> [!WARNING]
+> [!CAUTION]
 > Keep the original `empires2.exe` untouched. The launcher loads mods without modifying it.
 
 ## Available Mods
@@ -35,9 +35,7 @@ You need a working install of the original game first (checkout tips under).
 
 > [!WARNING]
 > **Middle mouse button conflict**
-> The original game binds the middle mouse button to a camera cycle shortcut.
-> This can conflict with drag scrolling. If you notice unexpected camera jumps,
-> you can unbind this shortcut in the game's control settings.
+> The original game binds the middle mouse button to a camera cycle shortcut. This can conflict with drag scrolling. If you notice unexpected camera jumps, you can unbind this shortcut in the game's control settings.
 
 ## Technical Details
 
