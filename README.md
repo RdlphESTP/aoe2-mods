@@ -9,11 +9,13 @@ You need a working install of the original game first (checkout tips under).
 
 > [!IMPORTANT]
 > **Looking for The Conquerors?**
+>
 > You're probably looking for [UserPatch](https://userpatch.aiscripters.net/), the community patch for *AoE2: The Conquerors*.
 > These mods were built for *The Age of Kings* only and haven't been tested on *The Conquerors*.
 
 > [!TIP]
 > **Game won't launch on a modern PC?**
+>
 > If a fresh install doesn't start, try reinstalling from the original CD, then copy the [cnc-ddraw files](https://github.com/FunkyFr3sh/cnc-ddraw/releases/latest/download/cnc-ddraw.zip) in the game installation folder.
 
 > [!TIP]
@@ -35,6 +37,7 @@ You need a working install of the original game first (checkout tips under).
 
 > [!WARNING]
 > **Middle mouse button conflict**
+>
 > The original game binds the middle mouse button to a camera cycle shortcut. This can conflict with drag scrolling. If you notice unexpected camera jumps, you can unbind this shortcut in the game's control settings.
 
 ## Technical Details
