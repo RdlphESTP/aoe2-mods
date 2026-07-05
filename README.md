@@ -31,8 +31,13 @@ You need a working install of the original game first (checkout tips under).
 
 ## Available Mods
 
-> **Drag Scroll** (`dragscroll.dll`)
-> Adds middle-mouse drag scrolling to the game.
+* **Drag Scroll** (`dragscroll.dll`), adds middle-mouse drag scrolling to the game.
+
+> [!WARNING]
+> **Middle mouse button conflict**
+> The original game binds the middle mouse button to a camera cycle shortcut.
+> This can conflict with drag scrolling. If you notice unexpected camera jumps,
+> you can unbind this shortcut in the game's control settings.
 
 ## Technical Details
 
