@@ -51,7 +51,7 @@ You need a working install of the original game first (checkout tips under).
 
 For anyone interested in the reverse engineering side:
 
-- **Target version**: Age of Empires II: The Age of Kings (1.0c)
+- **Target version**: Age of Empires II: The Age of Kings (any version)
 - **Camera pointer**: `[[[empires2.exe+26FA60]+4C]+4]`
 - **Camera coordinates (isometric grid)**: `+0x168`, `+0x16C`
 
