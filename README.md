@@ -33,6 +33,8 @@ You need a working install of the original game first (checkout tips under).
 
 ## Available Mods
 
+* **Widescreen** : check out this [awesome mod](https://www.moddb.com/games/age-of-empires-2-the-conquerors/downloads/aoe2-patch-wide-screen-1010c2020a20b20c) which also works with **The Age of Kings**.
+
 * **Drag Scroll** (`dragscroll.dll`), adds middle-mouse drag scrolling to the game.
 
 > [!WARNING]
