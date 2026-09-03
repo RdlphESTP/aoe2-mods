@@ -1,3 +1,17 @@
+<p>
+  <a href="https://github.com/RdlphESTP/aoe2-mods/releases/latest/download/launcher.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD-launcher.exe-C2E7B3?style=for-the-badge" alt="Download launcher.exe">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.moddb.com/games/age-of-empires-2-the-conquerors/downloads/aoe2-patch-wide-screen-1010c2020a20b20c" target="_blank">
+    <img src="https://img.shields.io/badge/MOD-widescreen-skyblue?style=for-the-badge" alt="Download Widescreen Patch">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/RdlphESTP/aoe2-mods/releases/latest/download/dragscroll.dll">
+    <img src="https://img.shields.io/badge/MOD-dragscroll.dll-skyblue?style=for-the-badge" alt="Download dragscroll.dll">
+  </a>
+</p>
+
 # AoE2: The Age of Kings - Mods
 
 A collection of mods for the original **Age of Empires II: The Age of Kings** (1999).
